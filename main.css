@@ -1,0 +1,17 @@
+body{
+    background-color: lightgreen;
+}
+
+h2{
+    color:maroon
+}
+
+#talos-work-history{
+    font-family: 'Courier New';
+    border: 6px dotted blueviolet
+}
+
+#pandoras-work-history{
+    font-family: 'Franklin Gothic';
+    border: 3px solid orange
+}
